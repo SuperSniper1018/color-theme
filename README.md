@@ -198,7 +198,7 @@ ___
 </details>
 
 <details>
-<summary>Cocoa</summary>
+<summary>Coal</summary>
 <table>
 	<tr>
 		<th></th>
