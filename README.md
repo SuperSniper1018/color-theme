@@ -231,16 +231,16 @@ ___
 	<tr>
 		<td><img src="assets/dark/yellow.png" height="23" width="23"/></td>
 		<td>Yellow</td>
-		<td><code>#df8e1d</code></td>
-		<td><code>rgb(223, 142, 29)</code></td>
-		<td><code>hsl(35, 77%, 49%)</code></td>
+		<td><code>#f0d067</code></td>
+		<td><code>rgb(240, 208, 103)</code></td>
+		<td><code>hsl(46, 82%, 67%)</code></td>
 	</tr>
 	<tr>
 		<td><img src="assets/dark/green.png" height="23" width="23"/></td>
 		<td>Green</td>
-		<td><code>#40a02b</code></td>
-		<td><code>rgb(64, 160, 43)</code></td>
-		<td><code>hsl(109, 58%, 40%)</code></td>
+		<td><code>#8be368</code></td>
+		<td><code>rgb(139, 227, 104)</code></td>
+		<td><code>hsl(103, 69%, 65%)</code></td>
 	</tr>
 	<tr>
 		<td><img src="assets/dark/teal.png" height="23" width="23"/></td>
