@@ -385,9 +385,9 @@ ___
 	<tr>
 		<td><img src="assets/dark/base.png" height="23" width="23"/></td>
 		<td>Crust</td>
-		<td><code>#dce0e8</code></td>
-		<td><code>rgb(220, 224, 223)</code></td>
-		<td><code>hsl(220, 21%, 89%)</code></td>
+		<td><code>#1b1d1f</code></td>
+		<td><code>rgb(27, 29, 31)</code></td>
+		<td><code>hsl(210, 7%, 11%)</code></td>
 	</tr>
 </table>
 </details>
