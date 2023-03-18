@@ -215,13 +215,6 @@ ___
 		<td><code>hsl(11, 59%, 67%)</code></td>
 	</tr>
 	<tr>
-		<td><img src="assets/dark/mauve.png" height="23" width="23"/></td>
-		<td>Mauve</td>
-		<td><code>#8839ef</code></td>
-		<td><code>rgb(136, 57, 239)</code></td>
-		<td><code>hsl(266, 85%, 58%)</code></td>
-	</tr>
-	<tr>
 		<td><img src="assets/dark/red.png" height="23" width="23"/></td>
 		<td>Red</td>
 		<td><code>#e14747</code></td>
@@ -269,6 +262,13 @@ ___
 		<td><code>#7287fd</code></td>
 		<td><code>rgb(114, 135, 253)</code></td>
 		<td><code>hsl(231, 97%, 72%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/dark/mauve.png" height="23" width="23"/></td>
+		<td>Mauve</td>
+		<td><code>#8839ef</code></td>
+		<td><code>rgb(136, 57, 239)</code></td>
+		<td><code>hsl(266, 85%, 58%)</code></td>
 	</tr>
 	<tr>
 		<td><img src="assets/dark/purple.png" height="23" width="23"/></td>
