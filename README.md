@@ -85,44 +85,44 @@ ___
 	<tr>
 		<td><img src="assets/light/text.png" height="23" width="23"/></td>
 		<td>Text</td>
-		<td><code>#4c4f69</code></td>
-		<td><code>rgb(220, 226, 232)</code></td>
-		<td><code>hsl(210, 21%, 89%)</code></td>
+		<td><code>#1e2021</code></td>
+		<td><code>rgb(30, 32, 33)</code></td>
+		<td><code>hsl(200, 5%, 12%)</code></td>
 	</tr>
 	<tr>
 		<td><img src="assets/light/ash.png" height="23" width="23"/></td>
 		<td>Ash</td>
-		<td><code>#797f85</code></td>
-		<td><code>rgb(121, 127, 133)</code></td>
-		<td><code>hsl(210, 5%, 50%)</code></td>
+		<td><code>#696e70</code></td>
+		<td><code>rgb(105, 110, 112)</code></td>
+		<td><code>hsl(197, 3%, 43%)</code></td>
 	</tr>
 	<tr>
 		<td><img src="assets/light/accent.png" height="23" width="23"/></td>
 		<td>Accent</td>
-		<td><code>#494e52</code></td>
-		<td><code>rgb(73, 78, 82)</code></td>
-		<td><code>hsl(207, 6%, 30%)</code></td>
+		<td><code>#e6ebed</code></td>
+		<td><code>rgb(230, 235, 237)</code></td>
+		<td><code>hsl(197, 16%, 92%)</code></td>
 	</tr>
 	<tr>
 		<td><img src="assets/light/surface.png" height="23" width="23"/></td>
 		<td>Overlay</td>
-		<td><code>#32373b</code></td>
-		<td><code>rgb(50, 55, 59)</code></td>
-		<td><code>hsl(207, 8%, 21%)</code></td>
+		<td><code>#d1dade</code></td>
+		<td><code>rgb(209, 218, 222)</code></td>
+		<td><code>hsl(198, 16%, 85%)</code></td>
 	</tr>
 	<tr>
 		<td><img src="assets/light/surface.png" height="23" width="23"/></td>
 		<td>Surface</td>
-		<td><code>#232629</code></td>
-		<td><code>rgb(35, 38, 41)</code></td>
-		<td><code>hsl(210, 8%, 15%)</code></td>
+		<td><code>#b2bdc2</code></td>
+		<td><code>rgb(178, 189, 194)</code></td>
+		<td><code>hsl(199, 12%, 73%)</code></td>
 	</tr>
 	<tr>
 		<td><img src="assets/light/base.png" height="23" width="23"/></td>
 		<td>Base</td>
-		<td><code>#1b1d1f</code></td>
-		<td><code>rgb(27, 29, 31)</code></td>
-		<td><code>hsl(210, 7%, 11%)</code></td>
+		<td><code>#a8b1b5</code></td>
+		<td><code>rgb(168, 177, 181)</code></td>
+		<td><code>hsl(198, 8%, 68%)</code></td>
 	</tr>
 </table>
 </details>
