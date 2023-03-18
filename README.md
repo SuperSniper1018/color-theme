@@ -126,58 +126,58 @@ ___
 	<tr>
 		<td><img src="assets/dark/pink.png" height="23" width="23"/></td>
 		<td>Pink</td>
-		<td><code>#eb94d9</code></td>
-		<td><code>rgb(235, 148, 217)</code></td>
-		<td><code>hsl(312, 69%, 75%)</code></td>
+		<td><code>#D895C2</code></td>
+		<td><code>rgb(216, 149, 194)</code></td>
+		<td><code>hsl(320, 46%, 72%)</code></td>
 	</tr>
 	<tr>
 		<td><img src="assets/dark/red.png" height="23" width="23"/></td>
 		<td>Red</td>
-		<td><code>#c75e57</code></td>
-		<td><code>rgb(199, 94, 87)</code></td>
-		<td><code>hsl(4, 50%, 56%)</code></td>
+		<td><code>#E85A84</code></td>
+		<td><code>rgb(232, 90, 132)</code></td>
+		<td><code>hsl(342, 76%, 63%)</code></td>
 	</tr>
 	<tr>
 		<td><img src="assets/dark/orange.png" height="23" width="23"/></td>
 		<td>Orange</td>
-		<td><code>#c9825e</code></td>
-		<td><code>rgb(201, 130, 94)</code></td>
-		<td><code>hsl(20, 50%, 58%)</code></td>
+		<td><code>#e69860</code></td>
+		<td><code>rgb(230, 152, 96)</code></td>
+		<td><code>hsl(25, 73%, 64%)</code></td>
 	</tr>
 	<tr>
 		<td><img src="assets/dark/yellow.png" height="23" width="23"/></td>
 		<td>Yellow</td>
-		<td><code>#fadd7f</code></td>
-		<td><code>rgb(250, 221, 127)</code></td>
-		<td><code>hsl(46, 92%, 74%)</code></td>
+		<td><code>#E9D26C</code></td>
+		<td><code>rgb(233, 210, 108)</code></td>
+		<td><code>hsl(49, 74%, 67%)</code></td>
 	</tr>
 	<tr>
 		<td><img src="assets/dark/green.png" height="23" width="23"/></td>
 		<td>Green</td>
-		<td><code>#92d279</code></td>
-		<td><code>rgb(146, 210, 121)</code></td>
-		<td><code>hsl(103, 50%, 65%)</code></td>
+		<td><code>#94DD8E</code></td>
+		<td><code>rgb(148, 221, 142)</code></td>
+		<td><code>hsl(115, 54%, 71%)</code></td>
 	</tr>
 	<tr>
 		<td><img src="assets/dark/teal.png" height="23" width="23"/></td>
 		<td>Teal</td>
-		<td><code>#79d2af</code></td>
-		<td><code>rgb(121, 210, 175)</code></td>
-		<td><code>hsl(156, 50%, 65%)</code></td>
+		<td><code>#89BEB7</code></td>
+		<td><code>rgb(137, 190, 183)</code></td>
+		<td><code>hsl(172, 29%, 64%)</code></td>
 	</tr>
 	<tr>
 		<td><img src="assets/dark/blue.png" height="23" width="23"/></td>
 		<td>Blue</td>
-		<td><code>#6ebacf</code></td>
-		<td><code>rgb(110, 186, 207)</code></td>
-		<td><code>hsl(193, 50%, 62%)</code></td>
+		<td><code>#7EB7E6</code></td>
+		<td><code>rgb(126, 183, 230)</code></td>
+		<td><code>hsl(207, 68%, 70%)</code></td>
 	</tr>
 	<tr>
 		<td><img src="assets/dark/purple.png" height="23" width="23"/></td>
 		<td>Purple</td>
-		<td><code>#7769bf</code></td>
-		<td><code>rgb(119, 105, 191)</code></td>
-		<td><code>hsl(250, 40%, 58%)</code></td>
+		<td><code>#916888</code></td>
+		<td><code>rgb(145, 104, 136)</code></td>
+		<td><code>hsl(313, 16%, 49%)</code></td>
 	</tr>
 	<tr>
 		<td><img src="assets/dark/text.png" height="23" width="23"/></td>
