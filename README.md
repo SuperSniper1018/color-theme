@@ -50,20 +50,27 @@ ___
 	<tr>
 		<td><img src="assets/dark/teal.png" height="23" width="23"/></td>
 		<td>Teal</td>
-		<td><code>#179299</code></td>
-		<td><code>rgb(23, 146, 153)</code></td>
-		<td><code>hsl(183, 74%, 35%)</code></td>
+		<td><code>#68e3b2</code></td>
+		<td><code>rgb(104, 227, 178)</code></td>
+		<td><code>hsl(156, 69%, 65%)</code></td>
 	</tr>
 	<tr>
 		<td><img src="assets/dark/blue.png" height="23" width="23"/></td>
 		<td>Blue</td>
-		<td><code>#209fb5</code></td>
-		<td><code>rgb(23, 159, 181)</code></td>
-		<td><code>hsl(189, 70%, 42%)</code></td>
+		<td><code>#5bc5e3</code></td>
+		<td><code>rgb(91, 197, 227)</code></td>
+		<td><code>hsl(193, 71%, 62%)</code></td>
 	</tr>
 	<tr>
 		<td><img src="assets/dark/lavender.png" height="23" width="23"/></td>
 		<td>Lavender</td>
+		<td><code>#7287fd</code></td>
+		<td><code>rgb(114, 135, 253)</code></td>
+		<td><code>hsl(231, 97%, 72%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/dark/purple.png" height="23" width="23"/></td>
+		<td>Purple</td>
 		<td><code>#7287fd</code></td>
 		<td><code>rgb(114, 135, 253)</code></td>
 		<td><code>hsl(231, 97%, 72%)</code></td>
@@ -74,13 +81,6 @@ ___
 		<td><code>#8839ef</code></td>
 		<td><code>rgb(136, 57, 239)</code></td>
 		<td><code>hsl(266, 85%, 58%)</code></td>
-	</tr>
-	<tr>
-		<td><img src="assets/dark/purple.png" height="23" width="23"/></td>
-		<td>Purple</td>
-		<td><code>#7287fd</code></td>
-		<td><code>rgb(114, 135, 253)</code></td>
-		<td><code>hsl(231, 97%, 72%)</code></td>
 	</tr>
 	<tr>
 		<td><img src="assets/light/text.png" height="23" width="23"/></td>
@@ -129,7 +129,6 @@ ___
 
 <details>
 <summary>Coal</summary>
-<table>
 	<tr>
 		<th></th>
 		<th>Labels</th>
@@ -175,20 +174,27 @@ ___
 	<tr>
 		<td><img src="assets/dark/teal.png" height="23" width="23"/></td>
 		<td>Teal</td>
-		<td><code>#179299</code></td>
-		<td><code>rgb(23, 146, 153)</code></td>
-		<td><code>hsl(183, 74%, 35%)</code></td>
+		<td><code>#68e3b2</code></td>
+		<td><code>rgb(104, 227, 178)</code></td>
+		<td><code>hsl(156, 69%, 65%)</code></td>
 	</tr>
 	<tr>
 		<td><img src="assets/dark/blue.png" height="23" width="23"/></td>
 		<td>Blue</td>
-		<td><code>#209fb5</code></td>
-		<td><code>rgb(23, 159, 181)</code></td>
-		<td><code>hsl(189, 70%, 42%)</code></td>
+		<td><code>#5bc5e3</code></td>
+		<td><code>rgb(91, 197, 227)</code></td>
+		<td><code>hsl(193, 71%, 62%)</code></td>
 	</tr>
 	<tr>
 		<td><img src="assets/dark/lavender.png" height="23" width="23"/></td>
 		<td>Lavender</td>
+		<td><code>#7287fd</code></td>
+		<td><code>rgb(114, 135, 253)</code></td>
+		<td><code>hsl(231, 97%, 72%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/dark/purple.png" height="23" width="23"/></td>
+		<td>Purple</td>
 		<td><code>#7287fd</code></td>
 		<td><code>rgb(114, 135, 253)</code></td>
 		<td><code>hsl(231, 97%, 72%)</code></td>
@@ -199,13 +205,6 @@ ___
 		<td><code>#8839ef</code></td>
 		<td><code>rgb(136, 57, 239)</code></td>
 		<td><code>hsl(266, 85%, 58%)</code></td>
-	</tr>
-	<tr>
-		<td><img src="assets/dark/purple.png" height="23" width="23"/></td>
-		<td>Purple</td>
-		<td><code>#7287fd</code></td>
-		<td><code>rgb(114, 135, 253)</code></td>
-		<td><code>hsl(231, 97%, 72%)</code></td>
 	</tr>
 	<tr>
 		<td><img src="assets/dark/text.png" height="23" width="23"/></td>
