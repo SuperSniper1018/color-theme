@@ -22,23 +22,23 @@ ___
 	<tr>
 		<td><img src="assets/light/red.png" height="23" width="23"/></td>
 		<td>Red</td>
-		<td><code>#c75e57</code></td>
-		<td><code>rgb(199, 94, 87)</code></td>
-		<td><code>hsl(4, 50%, 56%)</code></td>
+		<td><code>#e14747</code></td>
+		<td><code>rgb(225, 71, 71)</code></td>
+		<td><code>hsl(0, 72%, 58%)</code></td>
 	</tr>
 	<tr>
 		<td><img src="assets/light/orange.png" height="23" width="23"/></td>
 		<td>Orange</td>
-		<td><code>#c9825e</code></td>
-		<td><code>rgb(201, 130, 94)</code></td>
-		<td><code>hsl(20, 50%, 58%)</code></td>
+		<td><code>#e07946</code></td>
+		<td><code>rgb(224, 121, 70)</code></td>
+		<td><code>hsl(20, 71%, 58%)</code></td>
 	</tr>
 	<tr>
 		<td><img src="assets/light/yellow.png" height="23" width="23"/></td>
 		<td>Yellow</td>
-		<td><code>#fadd7f</code></td>
-		<td><code>rgb(250, 221, 127)</code></td>
-		<td><code>hsl(46, 92%, 74%)</code></td>
+		<td><code>#f0d067</code></td>
+		<td><code>rgb(240, 208, 103)</code></td>
+		<td><code>hsl(46, 82%, 67%)</code></td>
 	</tr>
 	<tr>
 		<td><img src="assets/light/green.png" height="23" width="23"/></td>
@@ -147,23 +147,23 @@ ___
 	<tr>
 		<td><img src="assets/dark/red.png" height="23" width="23"/></td>
 		<td>Red</td>
-		<td><code>#e14747</code></td>
-		<td><code>rgb(225, 71, 71)</code></td>
-		<td><code>hsl(0, 72%, 58%)</code></td>
+		<td><code>#c75e57</code></td>
+		<td><code>rgb(199, 94, 87)</code></td>
+		<td><code>hsl(4, 50%, 56%)</code></td>
 	</tr>
 	<tr>
 		<td><img src="assets/dark/orange.png" height="23" width="23"/></td>
 		<td>Orange</td>
-		<td><code>#e07946</code></td>
-		<td><code>rgb(224, 121, 70)</code></td>
-		<td><code>hsl(20, 71%, 58%)</code></td>
+		<td><code>#c9825e</code></td>
+		<td><code>rgb(201, 130, 94)</code></td>
+		<td><code>hsl(20, 50%, 58%)</code></td>
 	</tr>
 	<tr>
 		<td><img src="assets/dark/yellow.png" height="23" width="23"/></td>
 		<td>Yellow</td>
-		<td><code>#f0d067</code></td>
-		<td><code>rgb(240, 208, 103)</code></td>
-		<td><code>hsl(46, 82%, 67%)</code></td>
+		<td><code>#fadd7f</code></td>
+		<td><code>rgb(250, 221, 127)</code></td>
+		<td><code>hsl(46, 92%, 74%)</code></td>
 	</tr>
 	<tr>
 		<td><img src="assets/dark/green.png" height="23" width="23"/></td>
