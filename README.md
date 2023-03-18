@@ -3,7 +3,6 @@
 ___
 
 
-<details>
 <table>
 	<tr>
 		<th></th>
@@ -111,6 +110,5 @@ ___
 		<td><code>hsl(210, 7%, 11%)</code></td>
 	</tr>
 </table>
-</details>
 
 &nbsp;
