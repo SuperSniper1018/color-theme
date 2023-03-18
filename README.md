@@ -1,7 +1,7 @@
 ### 🎨 Palettes
 
 <details>
-<summary>Dark</summary>
+<summary>Cocoa</summary>
 <table>
 	<tr>
 		<th></th>
@@ -196,7 +196,7 @@
 </details>
 
 <details>
-<summary>🪴 Frappé</summary>
+<summary>Snow</summary>
 <table>
 	<tr>
 		<th></th>
