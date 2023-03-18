@@ -29,16 +29,16 @@ ___
 	<tr>
 		<td><img src="assets/light/orange.png" height="23" width="23"/></td>
 		<td>Orange</td>
-		<td><code>#e07946</code></td>
-		<td><code>rgb(224, 121, 70)</code></td>
-		<td><code>hsl(20, 71%, 58%)</code></td>
+		<td><code>#c9825e</code></td>
+		<td><code>rgb(201, 130, 94)</code></td>
+		<td><code>hsl(20, 50%, 58%)</code></td>
 	</tr>
 	<tr>
 		<td><img src="assets/light/yellow.png" height="23" width="23"/></td>
 		<td>Yellow</td>
-		<td><code>#f0d067</code></td>
-		<td><code>rgb(240, 208, 103)</code></td>
-		<td><code>hsl(46, 82%, 67%)</code></td>
+		<td><code>#fadd7f</code></td>
+		<td><code>rgb(250, 221, 127)</code></td>
+		<td><code>hsl(46, 92%, 74%)</code></td>
 	</tr>
 	<tr>
 		<td><img src="assets/light/green.png" height="23" width="23"/></td>
