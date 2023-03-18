@@ -376,11 +376,11 @@ ___
 		<td><code>hsl(220, 23%, 95%)</code></td>
 	</tr>
 	<tr>
-		<td><img src="assets/palette/circles/latte_mantle.png" height="23" width="23"/></td>
+		<td><img src="assets/dark/surface.png" height="23" width="23"/></td>
 		<td>Mantle</td>
-		<td><code>#e6e9ef</code></td>
-		<td><code>rgb(230, 233, 239)</code></td>
-		<td><code>hsl(220, 22%, 92%)</code></td>
+		<td><code>#232629</code></td>
+		<td><code>rgb(35, 38, 41)</code></td>
+		<td><code>hsl(210, 8%, 15%)</code></td>
 	</tr>
 	<tr>
 		<td><img src="assets/dark/base.png" height="23" width="23"/></td>
