@@ -140,9 +140,9 @@ ___
 	<tr>
 		<td><img src="assets/dark/pink.png" height="23" width="23"/></td>
 		<td>Pink</td>
-		<td><code>#e68ad3</code></td>
-		<td><code>rgb(230, 138, 211)</code></td>
-		<td><code>hsl(312, 65%, 72%)</code></td>
+		<td><code>#eb94d9</code></td>
+		<td><code>rgb(235, 148, 217)</code></td>
+		<td><code>hsl(312, 69%, 75%)</code></td>
 	</tr>
 	<tr>
 		<td><img src="assets/dark/red.png" height="23" width="23"/></td>
@@ -168,9 +168,9 @@ ___
 	<tr>
 		<td><img src="assets/dark/green.png" height="23" width="23"/></td>
 		<td>Green</td>
-		<td><code>#8be368</code></td>
-		<td><code>rgb(139, 227, 104)</code></td>
-		<td><code>hsl(103, 69%, 65%)</code></td>
+		<td><code>#92d279</code></td>
+		<td><code>rgb(146, 210, 121)</code></td>
+		<td><code>hsl(103, 50%, 65%)</code></td>
 	</tr>
 	<tr>
 		<td><img src="assets/dark/teal.png" height="23" width="23"/></td>
