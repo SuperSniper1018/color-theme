@@ -208,70 +208,70 @@ ___
 		<th>HSL</th>
 	</tr>
 	<tr>
-		<td><img src="assets/palette/circles/latte_rosewater.png" height="23" width="23"/></td>
+		<td><img src="assets/dark/pink.png" height="23" width="23"/></td>
 		<td>Pink</td>
 		<td><code>#dc8a78</code></td>
 		<td><code>rgb(220, 138, 120)</code></td>
 		<td><code>hsl(11, 59%, 67%)</code></td>
 	</tr>
 	<tr>
-		<td><img src="assets/palette/circles/latte_mauve.png" height="23" width="23"/></td>
+		<td><img src="assets/dark/mauve.png" height="23" width="23"/></td>
 		<td>Mauve</td>
 		<td><code>#8839ef</code></td>
 		<td><code>rgb(136, 57, 239)</code></td>
 		<td><code>hsl(266, 85%, 58%)</code></td>
 	</tr>
 	<tr>
-		<td><img src="assets/palette/circles/latte_red.png" height="23" width="23"/></td>
+		<td><img src="assets/dark/red.png" height="23" width="23"/></td>
 		<td>Red</td>
-		<td><code>#d20f39</code></td>
-		<td><code>rgb(210, 15, 57)</code></td>
-		<td><code>hsl(347, 87%, 44%)</code></td>
+		<td><code>#e64040</code></td>
+		<td><code>rgb(230, 64, 64)</code></td>
+		<td><code>hsl(0, 77%, 58%)</code></td>
 	</tr>
 	<tr>
-		<td><img src="assets/palette/circles/latte_maroon.png" height="23" width="23"/></td>
+		<td><img src="assets/dark/orange.png" height="23" width="23"/></td>
 		<td>Orange</td>
 		<td><code>#e64553</code></td>
 		<td><code>rgb(230, 69, 83)</code></td>
 		<td><code>hsl(355, 76%, 59%)</code></td>
 	</tr>
 	<tr>
-		<td><img src="assets/palette/circles/latte_yellow.png" height="23" width="23"/></td>
+		<td><img src="assets/dark/yellow.png" height="23" width="23"/></td>
 		<td>Yellow</td>
 		<td><code>#df8e1d</code></td>
 		<td><code>rgb(223, 142, 29)</code></td>
 		<td><code>hsl(35, 77%, 49%)</code></td>
 	</tr>
 	<tr>
-		<td><img src="assets/palette/circles/latte_green.png" height="23" width="23"/></td>
+		<td><img src="assets/dark/green.png" height="23" width="23"/></td>
 		<td>Green</td>
 		<td><code>#40a02b</code></td>
 		<td><code>rgb(64, 160, 43)</code></td>
 		<td><code>hsl(109, 58%, 40%)</code></td>
 	</tr>
 	<tr>
-		<td><img src="assets/palette/circles/latte_teal.png" height="23" width="23"/></td>
+		<td><img src="assets/dark/teal.png" height="23" width="23"/></td>
 		<td>Teal</td>
 		<td><code>#179299</code></td>
 		<td><code>rgb(23, 146, 153)</code></td>
 		<td><code>hsl(183, 74%, 35%)</code></td>
 	</tr>
 	<tr>
-		<td><img src="assets/palette/circles/latte_sapphire.png" height="23" width="23"/></td>
+		<td><img src="assets/dark/blue.png" height="23" width="23"/></td>
 		<td>Blue</td>
 		<td><code>#209fb5</code></td>
 		<td><code>rgb(23, 159, 181)</code></td>
 		<td><code>hsl(189, 70%, 42%)</code></td>
 	</tr>
 	<tr>
-		<td><img src="assets/palette/circles/latte_lavender.png" height="23" width="23"/></td>
+		<td><img src="assets/dark/lavender.png" height="23" width="23"/></td>
 		<td>Lavender</td>
 		<td><code>#7287fd</code></td>
 		<td><code>rgb(114, 135, 253)</code></td>
 		<td><code>hsl(231, 97%, 72%)</code></td>
 	</tr>
 	<tr>
-		<td><img src="assets/palette/circles/latte_lavender.png" height="23" width="23"/></td>
+		<td><img src="assets/dark/purple.png" height="23" width="23"/></td>
 		<td>Purple</td>
 		<td><code>#7287fd</code></td>
 		<td><code>rgb(114, 135, 253)</code></td>
