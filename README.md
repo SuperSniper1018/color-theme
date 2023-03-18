@@ -285,6 +285,13 @@ ___
 		<td><code>hsl(234, 16%, 35%)</code></td>
 	</tr>
 	<tr>
+		<td><img src="assets/palette/circles/latte_text.png" height="23" width="23"/></td>
+		<td>Ash</td>
+		<td><code>#4c4f69</code></td>
+		<td><code>rgb(76, 79, 105)</code></td>
+		<td><code>hsl(234, 16%, 35%)</code></td>
+	</tr>
+	<tr>
 		<td><img src="assets/dark/surface.png" height="23" width="23"/></td>
 		<td>Overlay</td>
 		<td><code>#32373b</code></td>
