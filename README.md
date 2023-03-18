@@ -203,9 +203,9 @@ ___
 	<tr>
 		<td><img src="assets/dark/mauve.png" height="23" width="23"/></td>
 		<td>Mauve</td>
-		<td><code>#b64fdb</code></td>
-		<td><code>rgb(182, 79, 219)</code></td>
-		<td><code>hsl(284, 66%, 58%)</code></td>
+		<td><code>#b254d4</code></td>
+		<td><code>rgb(178, 84, 212)</code></td>
+		<td><code>hsl(284, 60%, 58%)</code></td>
 	</tr>
 	<tr>
 		<td><img src="assets/dark/text.png" height="23" width="23"/></td>
