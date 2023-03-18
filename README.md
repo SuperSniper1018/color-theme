@@ -292,6 +292,13 @@ ___
 		<td><code>hsl(234, 16%, 35%)</code></td>
 	</tr>
 	<tr>
+		<td><img src="assets/dark/accent.png" height="23" width="23"/></td>
+		<td>Accent</td>
+		<td><code>#494e52</code></td>
+		<td><code>rgb(73, 78, 82)</code></td>
+		<td><code>hsl(207, 6%, 30%)</code></td>
+	</tr>
+	<tr>
 		<td><img src="assets/dark/surface.png" height="23" width="23"/></td>
 		<td>Overlay</td>
 		<td><code>#32373b</code></td>
