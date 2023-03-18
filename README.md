@@ -372,8 +372,8 @@ ___
 		<td><img src="assets/dark/surface.png" height="23" width="23"/></td>
 		<td>Overlay</td>
 		<td><code>#32373b</code></td>
-		<td><code>rgb(239, 241, 245)</code></td>
-		<td><code>hsl(220, 23%, 95%)</code></td>
+		<td><code>rgb(50, 55, 59)</code></td>
+		<td><code>hsl(207, 8%, 21%)</code></td>
 	</tr>
 	<tr>
 		<td><img src="assets/dark/surface.png" height="23" width="23"/></td>
