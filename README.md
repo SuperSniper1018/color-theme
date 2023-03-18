@@ -210,9 +210,9 @@ ___
 	<tr>
 		<td><img src="assets/dark/pink.png" height="23" width="23"/></td>
 		<td>Pink</td>
-		<td><code>#dc8a78</code></td>
-		<td><code>rgb(220, 138, 120)</code></td>
-		<td><code>hsl(11, 59%, 67%)</code></td>
+		<td><code>#e68ad3</code></td>
+		<td><code>rgb(230, 138, 211)</code></td>
+		<td><code>hsl(312, 65%, 72%)</code></td>
 	</tr>
 	<tr>
 		<td><img src="assets/dark/red.png" height="23" width="23"/></td>
