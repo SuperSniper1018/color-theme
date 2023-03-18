@@ -258,7 +258,7 @@ ___
 	</tr>
 	<tr>
 		<td><img src="assets/palette/circles/latte_sapphire.png" height="23" width="23"/></td>
-		<td>Sapphire</td>
+		<td>Blue</td>
 		<td><code>#209fb5</code></td>
 		<td><code>rgb(23, 159, 181)</code></td>
 		<td><code>hsl(189, 70%, 42%)</code></td>
@@ -266,6 +266,13 @@ ___
 	<tr>
 		<td><img src="assets/palette/circles/latte_lavender.png" height="23" width="23"/></td>
 		<td>Lavender</td>
+		<td><code>#7287fd</code></td>
+		<td><code>rgb(114, 135, 253)</code></td>
+		<td><code>hsl(231, 97%, 72%)</code></td>
+	</tr>
+	<tr>
+		<td><img src="assets/palette/circles/latte_lavender.png" height="23" width="23"/></td>
+		<td>Purple</td>
 		<td><code>#7287fd</code></td>
 		<td><code>rgb(114, 135, 253)</code></td>
 		<td><code>hsl(231, 97%, 72%)</code></td>
