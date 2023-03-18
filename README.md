@@ -1,4 +1,4 @@
-### 🎨 Palettes
+### Themes
 
 <details>
 <summary>Snow</summary>
