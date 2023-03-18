@@ -231,9 +231,9 @@ ___
 	<tr>
 		<td><img src="assets/dark/orange.png" height="23" width="23"/></td>
 		<td>Orange</td>
-		<td><code>#e64553</code></td>
-		<td><code>rgb(230, 69, 83)</code></td>
-		<td><code>hsl(355, 76%, 59%)</code></td>
+		<td><code>#e07946</code></td>
+		<td><code>rgb(224, 121, 70)</code></td>
+		<td><code>hsl(20, 71%, 58%)</code></td>
 	</tr>
 	<tr>
 		<td><img src="assets/dark/yellow.png" height="23" width="23"/></td>
