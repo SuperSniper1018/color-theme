@@ -69,20 +69,6 @@ ___
 		<td><code>hsl(250, 66%, 58%)</code></td>
 	</tr>
 	<tr>
-		<td><img src="assets/light/lavender.png" height="23" width="23"/></td>
-		<td>Lavender</td>
-		<td><code>#8a67db</code></td>
-		<td><code>rgb(138, 103, 219)</code></td>
-		<td><code>hsl(258, 62%, 63%)</code></td>
-	</tr>
-	<tr>
-		<td><img src="assets/light/mauve.png" height="23" width="23"/></td>
-		<td>Mauve</td>
-		<td><code>#b254d4</code></td>
-		<td><code>rgb(178, 84, 212)</code></td>
-		<td><code>hsl(284, 60%, 58%)</code></td>
-	</tr>
-	<tr>
 		<td><img src="assets/light/text.png" height="23" width="23"/></td>
 		<td>Text</td>
 		<td><code>#1e2021</code></td>
@@ -189,23 +175,9 @@ ___
 	<tr>
 		<td><img src="assets/dark/purple.png" height="23" width="23"/></td>
 		<td>Purple</td>
-		<td><code>#664fdb</code></td>
-		<td><code>rgb(102, 79, 219)</code></td>
-		<td><code>hsl(250, 66%, 58%)</code></td>
-	</tr>
-	<tr>
-		<td><img src="assets/dark/lavender.png" height="23" width="23"/></td>
-		<td>Lavender</td>
-		<td><code>#8a67db</code></td>
-		<td><code>rgb(138, 103, 219)</code></td>
-		<td><code>hsl(258, 62%, 63%)</code></td>
-	</tr>
-	<tr>
-		<td><img src="assets/dark/mauve.png" height="23" width="23"/></td>
-		<td>Mauve</td>
-		<td><code>#b254d4</code></td>
-		<td><code>rgb(178, 84, 212)</code></td>
-		<td><code>hsl(284, 60%, 58%)</code></td>
+		<td><code>#7769bf</code></td>
+		<td><code>rgb(119, 105, 191)</code></td>
+		<td><code>hsl(250, 40%, 58%)</code></td>
 	</tr>
 	<tr>
 		<td><img src="assets/dark/text.png" height="23" width="23"/></td>
