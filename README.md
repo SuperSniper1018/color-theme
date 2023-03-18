@@ -175,16 +175,16 @@ ___
 	<tr>
 		<td><img src="assets/dark/teal.png" height="23" width="23"/></td>
 		<td>Teal</td>
-		<td><code>#68e3b2</code></td>
-		<td><code>rgb(104, 227, 178)</code></td>
-		<td><code>hsl(156, 69%, 65%)</code></td>
+		<td><code>#79d2af</code></td>
+		<td><code>rgb(121, 210, 175)</code></td>
+		<td><code>hsl(156, 50%, 65%)</code></td>
 	</tr>
 	<tr>
 		<td><img src="assets/dark/blue.png" height="23" width="23"/></td>
 		<td>Blue</td>
-		<td><code>#5bc5e3</code></td>
-		<td><code>rgb(91, 197, 227)</code></td>
-		<td><code>hsl(193, 71%, 62%)</code></td>
+		<td><code>#6ebacf</code></td>
+		<td><code>rgb(110, 186, 207)</code></td>
+		<td><code>hsl(193, 50%, 62%)</code></td>
 	</tr>
 	<tr>
 		<td><img src="assets/dark/purple.png" height="23" width="23"/></td>
