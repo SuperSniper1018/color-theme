@@ -281,15 +281,15 @@ ___
 		<td><img src="assets/palette/circles/latte_text.png" height="23" width="23"/></td>
 		<td>Text</td>
 		<td><code>#4c4f69</code></td>
-		<td><code>rgb(76, 79, 105)</code></td>
-		<td><code>hsl(234, 16%, 35%)</code></td>
+		<td><code>rgb(220, 226, 232)</code></td>
+		<td><code>hsl(210, 21%, 89%)</code></td>
 	</tr>
 	<tr>
-		<td><img src="assets/palette/circles/latte_text.png" height="23" width="23"/></td>
+		<td><img src="assets/dark/ash.png" height="23" width="23"/></td>
 		<td>Ash</td>
-		<td><code>#4c4f69</code></td>
-		<td><code>rgb(76, 79, 105)</code></td>
-		<td><code>hsl(234, 16%, 35%)</code></td>
+		<td><code>#797f85</code></td>
+		<td><code>rgb(121, 127, 133)</code></td>
+		<td><code>hsl(210, 5%, 50%)</code></td>
 	</tr>
 	<tr>
 		<td><img src="assets/dark/accent.png" height="23" width="23"/></td>
