@@ -189,16 +189,16 @@ ___
 	<tr>
 		<td><img src="assets/dark/purple.png" height="23" width="23"/></td>
 		<td>Purple</td>
-		<td><code>#7287fd</code></td>
-		<td><code>rgb(114, 135, 253)</code></td>
-		<td><code>hsl(231, 97%, 72%)</code></td>
+		<td><code>#664fdb</code></td>
+		<td><code>rgb(102, 79, 219)</code></td>
+		<td><code>hsl(250, 66%, 58%)</code></td>
 	</tr>
 	<tr>
 		<td><img src="assets/dark/lavender.png" height="23" width="23"/></td>
 		<td>Lavender</td>
-		<td><code>#7287fd</code></td>
-		<td><code>rgb(114, 135, 253)</code></td>
-		<td><code>hsl(231, 97%, 72%)</code></td>
+		<td><code>#8a67db</code></td>
+		<td><code>rgb(138, 103, 219)</code></td>
+		<td><code>hsl(258, 62%, 63%)</code></td>
 	</tr>
 	<tr>
 		<td><img src="assets/dark/mauve.png" height="23" width="23"/></td>
