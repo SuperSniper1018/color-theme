@@ -129,7 +129,7 @@ ___
 
 <details>
 <summary>Coal</summary>
-<table1>
+<table>
 	<tr>
 		<th></th>
 		<th>Labels</th>
