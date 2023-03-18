@@ -210,7 +210,7 @@ ___
 	<tr>
 		<td><img src="assets/dark/text.png" height="23" width="23"/></td>
 		<td>Text</td>
-		<td><code>#DCE2E8</code></td>
+		<td><code>#dce2e8</code></td>
 		<td><code>rgb(220, 226, 232)</code></td>
 		<td><code>hsl(210, 21%, 89%)</code></td>
 	</tr>
