@@ -62,15 +62,15 @@ ___
 		<td><code>hsl(193, 71%, 62%)</code></td>
 	</tr>
 	<tr>
-		<td><img src="assets/dark/lavender.png" height="23" width="23"/></td>
-		<td>Lavender</td>
+		<td><img src="assets/dark/purple.png" height="23" width="23"/></td>
+		<td>Purple</td>
 		<td><code>#7287fd</code></td>
 		<td><code>rgb(114, 135, 253)</code></td>
 		<td><code>hsl(231, 97%, 72%)</code></td>
 	</tr>
 	<tr>
-		<td><img src="assets/dark/purple.png" height="23" width="23"/></td>
-		<td>Purple</td>
+		<td><img src="assets/dark/lavender.png" height="23" width="23"/></td>
+		<td>Lavender</td>
 		<td><code>#7287fd</code></td>
 		<td><code>rgb(114, 135, 253)</code></td>
 		<td><code>hsl(231, 97%, 72%)</code></td>
@@ -129,7 +129,7 @@ ___
 
 <details>
 <summary>Coal</summary>
-<table>
+<table1>
 	<tr>
 		<th></th>
 		<th>Labels</th>
@@ -187,15 +187,15 @@ ___
 		<td><code>hsl(193, 71%, 62%)</code></td>
 	</tr>
 	<tr>
-		<td><img src="assets/dark/lavender.png" height="23" width="23"/></td>
-		<td>Lavender</td>
+		<td><img src="assets/dark/purple.png" height="23" width="23"/></td>
+		<td>Purple</td>
 		<td><code>#7287fd</code></td>
 		<td><code>rgb(114, 135, 253)</code></td>
 		<td><code>hsl(231, 97%, 72%)</code></td>
 	</tr>
 	<tr>
-		<td><img src="assets/dark/purple.png" height="23" width="23"/></td>
-		<td>Purple</td>
+		<td><img src="assets/dark/lavender.png" height="23" width="23"/></td>
+		<td>Lavender</td>
 		<td><code>#7287fd</code></td>
 		<td><code>rgb(114, 135, 253)</code></td>
 		<td><code>hsl(231, 97%, 72%)</code></td>
