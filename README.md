@@ -369,22 +369,22 @@ ___
 		<td><code>hsl(223, 16%, 83%)</code></td>
 	</tr>
 	<tr>
-		<td><img src="assets/palette/circles/latte_base.png" height="23" width="23"/></td>
-		<td>Base</td>
-		<td><code>#eff1f5</code></td>
+		<td><img src="assets/dark/surface.png" height="23" width="23"/></td>
+		<td>Overlay</td>
+		<td><code>#32373b</code></td>
 		<td><code>rgb(239, 241, 245)</code></td>
 		<td><code>hsl(220, 23%, 95%)</code></td>
 	</tr>
 	<tr>
 		<td><img src="assets/dark/surface.png" height="23" width="23"/></td>
-		<td>Mantle</td>
+		<td>Surface</td>
 		<td><code>#232629</code></td>
 		<td><code>rgb(35, 38, 41)</code></td>
 		<td><code>hsl(210, 8%, 15%)</code></td>
 	</tr>
 	<tr>
 		<td><img src="assets/dark/base.png" height="23" width="23"/></td>
-		<td>Crust</td>
+		<td>Base</td>
 		<td><code>#1b1d1f</code></td>
 		<td><code>rgb(27, 29, 31)</code></td>
 		<td><code>hsl(210, 7%, 11%)</code></td>
