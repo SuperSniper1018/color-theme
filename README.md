@@ -129,6 +129,7 @@ ___
 
 <details>
 <summary>Coal</summary>
+<table>
 	<tr>
 		<th></th>
 		<th>Labels</th>
