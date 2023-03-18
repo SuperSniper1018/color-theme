@@ -92,9 +92,9 @@ ___
 	<tr>
 		<td><img src="assets/light/ash.png" height="23" width="23"/></td>
 		<td>Ash</td>
-		<td><code>#696e70</code></td>
-		<td><code>rgb(105, 110, 112)</code></td>
-		<td><code>hsl(197, 3%, 43%)</code></td>
+		<td><code>#687175</code></td>
+		<td><code>rgb(104, 113, 117)</code></td>
+		<td><code>hsl(198, 6%, 43%)</code></td>
 	</tr>
 	<tr>
 		<td><img src="assets/light/accent.png" height="23" width="23"/></td>
